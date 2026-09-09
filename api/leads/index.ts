@@ -1,4 +1,4 @@
-import { getLeadsList, createNewLead } from '../../src/server/leadsService';
+import { getLeadsList, createNewLead } from '../_lib/leadsService';
 import { setCorsHeaders, parseBody } from '../_utils';
 
 export default async function handler(req: any, res: any) {

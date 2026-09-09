@@ -1,4 +1,4 @@
-import { getFirestoreInstance } from '../src/server/firestore';
+import { getFirestoreInstance } from './_lib/firestore';
 import { setCorsHeaders } from './_utils';
 
 export default async function handler(req: any, res: any) {

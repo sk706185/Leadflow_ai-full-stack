@@ -1,4 +1,4 @@
-import { evaluateLead } from '../src/scoring';
+import { evaluateLead } from './_lib/scoring';
 import { setCorsHeaders, parseBody } from './_utils';
 
 export default async function handler(req: any, res: any) {

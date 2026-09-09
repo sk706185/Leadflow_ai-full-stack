@@ -1,4 +1,4 @@
-import { resetAllLeads } from '../../src/server/leadsService';
+import { resetAllLeads } from '../_lib/leadsService';
 import { setCorsHeaders } from '../_utils';
 
 export default async function handler(req: any, res: any) {
