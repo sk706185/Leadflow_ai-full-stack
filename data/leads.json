@@ -1,0 +1,367 @@
+[
+  {
+    "id": "lead-seed-1",
+    "companyName": "Apex Service Partners",
+    "website": "https://apexservicepartners.com",
+    "linkedin": "https://www.linkedin.com/company/apex-service-partners/",
+    "industry": "Home Services",
+    "service": "HVAC & Climate Control",
+    "location": "Austin, TX",
+    "employeeCount": 28,
+    "revenue": 4500000,
+    "yearFounded": 2008,
+    "ceoName": "Marcus Vance",
+    "ceoAge": 52,
+    "source": "SAASQUATCH",
+    "createdAt": "2026-09-05T06:11:43.411Z",
+    "updatedAt": "2026-09-05T06:11:43.412Z",
+    "leadScore": 100,
+    "priority": "HIGH",
+    "scoreReasons": [
+      "✓ Industry matches target criteria (Home Services)",
+      "✓ Employee count (28) is within the ideal 10–50 range",
+      "✓ Revenue ($4.5M) matches investment criteria ($1M–$10M)",
+      "✓ Company was founded in 2008 (after 2000 target)",
+      "✓ CEO age (52) meets the 45+ leadership experience criteria"
+    ],
+    "detailedCriteria": [
+      {
+        "id": "industry",
+        "criterionName": "Target Industry",
+        "targetRule": "Home Services",
+        "pointsAwarded": 25,
+        "maxPoints": 25,
+        "matched": true,
+        "reason": "✓ Industry matches target criteria (Home Services)"
+      },
+      {
+        "id": "employees",
+        "criterionName": "Employee Headcount",
+        "targetRule": "10–50 Employees",
+        "pointsAwarded": 20,
+        "maxPoints": 20,
+        "matched": true,
+        "reason": "✓ Employee count (28) is within the ideal 10–50 range"
+      },
+      {
+        "id": "revenue",
+        "criterionName": "Estimated Revenue",
+        "targetRule": "$1M–$10M Annual Revenue",
+        "pointsAwarded": 20,
+        "maxPoints": 20,
+        "matched": true,
+        "reason": "✓ Revenue ($4.5M) matches investment criteria ($1M–$10M)"
+      },
+      {
+        "id": "yearFounded",
+        "criterionName": "Year Founded",
+        "targetRule": "Founded after 2000",
+        "pointsAwarded": 15,
+        "maxPoints": 15,
+        "matched": true,
+        "reason": "✓ Company was founded in 2008 (after 2000 target)"
+      },
+      {
+        "id": "ceoAge",
+        "criterionName": "CEO Age",
+        "targetRule": "Age 45 or older",
+        "pointsAwarded": 20,
+        "maxPoints": 20,
+        "matched": true,
+        "reason": "✓ CEO age (52) meets the 45+ leadership experience criteria"
+      }
+    ]
+  },
+  {
+    "id": "lead-seed-2",
+    "companyName": "Tecta America Corp.",
+    "website": "https://www.tectaamerica.com",
+    "linkedin": "https://www.linkedin.com/company/tecta-america-corp/",
+    "industry": "Home Services",
+    "service": "Commercial Roofing & Solar",
+    "location": "Denver, CO",
+    "employeeCount": 42,
+    "revenue": 7800000,
+    "yearFounded": 2012,
+    "ceoName": "Elena Rostova",
+    "ceoAge": 49,
+    "source": "MANUAL",
+    "createdAt": "2026-09-06T06:11:43.412Z",
+    "updatedAt": "2026-09-06T06:11:43.412Z",
+    "leadScore": 100,
+    "priority": "HIGH",
+    "scoreReasons": [
+      "✓ Industry matches target criteria (Home Services)",
+      "✓ Employee count (42) is within the ideal 10–50 range",
+      "✓ Revenue ($7.8M) matches investment criteria ($1M–$10M)",
+      "✓ Company was founded in 2012 (after 2000 target)",
+      "✓ CEO age (49) meets the 45+ leadership experience criteria"
+    ],
+    "detailedCriteria": [
+      {
+        "id": "industry",
+        "criterionName": "Target Industry",
+        "targetRule": "Home Services",
+        "pointsAwarded": 25,
+        "maxPoints": 25,
+        "matched": true,
+        "reason": "✓ Industry matches target criteria (Home Services)"
+      },
+      {
+        "id": "employees",
+        "criterionName": "Employee Headcount",
+        "targetRule": "10–50 Employees",
+        "pointsAwarded": 20,
+        "maxPoints": 20,
+        "matched": true,
+        "reason": "✓ Employee count (42) is within the ideal 10–50 range"
+      },
+      {
+        "id": "revenue",
+        "criterionName": "Estimated Revenue",
+        "targetRule": "$1M–$10M Annual Revenue",
+        "pointsAwarded": 20,
+        "maxPoints": 20,
+        "matched": true,
+        "reason": "✓ Revenue ($7.8M) matches investment criteria ($1M–$10M)"
+      },
+      {
+        "id": "yearFounded",
+        "criterionName": "Year Founded",
+        "targetRule": "Founded after 2000",
+        "pointsAwarded": 15,
+        "maxPoints": 15,
+        "matched": true,
+        "reason": "✓ Company was founded in 2012 (after 2000 target)"
+      },
+      {
+        "id": "ceoAge",
+        "criterionName": "CEO Age",
+        "targetRule": "Age 45 or older",
+        "pointsAwarded": 20,
+        "maxPoints": 20,
+        "matched": true,
+        "reason": "✓ CEO age (49) meets the 45+ leadership experience criteria"
+      }
+    ]
+  },
+  {
+    "id": "lead-seed-3",
+    "companyName": "Neighborly",
+    "website": "https://www.neighborly.com",
+    "linkedin": "https://www.linkedin.com/company/neighborly/",
+    "industry": "Home Services",
+    "service": "Plumbing & Drain Services",
+    "location": "Charlotte, NC",
+    "employeeCount": 18,
+    "revenue": 2600000,
+    "yearFounded": 1996,
+    "ceoName": "Robert Sterling",
+    "ceoAge": 57,
+    "source": "SAASQUATCH",
+    "createdAt": "2026-09-07T06:11:43.412Z",
+    "updatedAt": "2026-09-07T06:11:43.412Z",
+    "leadScore": 85,
+    "priority": "HIGH",
+    "scoreReasons": [
+      "✓ Industry matches target criteria (Home Services)",
+      "✓ Employee count (18) is within the ideal 10–50 range",
+      "✓ Revenue ($2.6M) matches investment criteria ($1M–$10M)",
+      "✗ Company was founded in 1996 (must be founded after 2000)",
+      "✓ CEO age (57) meets the 45+ leadership experience criteria"
+    ],
+    "detailedCriteria": [
+      {
+        "id": "industry",
+        "criterionName": "Target Industry",
+        "targetRule": "Home Services",
+        "pointsAwarded": 25,
+        "maxPoints": 25,
+        "matched": true,
+        "reason": "✓ Industry matches target criteria (Home Services)"
+      },
+      {
+        "id": "employees",
+        "criterionName": "Employee Headcount",
+        "targetRule": "10–50 Employees",
+        "pointsAwarded": 20,
+        "maxPoints": 20,
+        "matched": true,
+        "reason": "✓ Employee count (18) is within the ideal 10–50 range"
+      },
+      {
+        "id": "revenue",
+        "criterionName": "Estimated Revenue",
+        "targetRule": "$1M–$10M Annual Revenue",
+        "pointsAwarded": 20,
+        "maxPoints": 20,
+        "matched": true,
+        "reason": "✓ Revenue ($2.6M) matches investment criteria ($1M–$10M)"
+      },
+      {
+        "id": "yearFounded",
+        "criterionName": "Year Founded",
+        "targetRule": "Founded after 2000",
+        "pointsAwarded": 0,
+        "maxPoints": 15,
+        "matched": false,
+        "reason": "✗ Company was founded in 1996 (must be founded after 2000)"
+      },
+      {
+        "id": "ceoAge",
+        "criterionName": "CEO Age",
+        "targetRule": "Age 45 or older",
+        "pointsAwarded": 20,
+        "maxPoints": 20,
+        "matched": true,
+        "reason": "✓ CEO age (57) meets the 45+ leadership experience criteria"
+      }
+    ]
+  },
+  {
+    "id": "lead-seed-4",
+    "companyName": "Servpro Industries",
+    "website": "https://www.servpro.com",
+    "linkedin": "https://www.linkedin.com/company/servpro-industries/",
+    "industry": "Home Services",
+    "service": "Restoration & Deep Cleaning",
+    "location": "Seattle, WA",
+    "employeeCount": 68,
+    "revenue": 8900000,
+    "yearFounded": 2016,
+    "ceoName": "David Zhao",
+    "ceoAge": 41,
+    "source": "OTHER",
+    "createdAt": "2026-09-08T06:11:43.412Z",
+    "updatedAt": "2026-09-08T06:11:43.412Z",
+    "leadScore": 60,
+    "priority": "MEDIUM",
+    "scoreReasons": [
+      "✓ Industry matches target criteria (Home Services)",
+      "✗ Employee count (68) is outside the target 10–50 range",
+      "✓ Revenue ($8.9M) matches investment criteria ($1M–$10M)",
+      "✓ Company was founded in 2016 (after 2000 target)",
+      "✗ CEO age (41) is below the 45+ criteria threshold"
+    ],
+    "detailedCriteria": [
+      {
+        "id": "industry",
+        "criterionName": "Target Industry",
+        "targetRule": "Home Services",
+        "pointsAwarded": 25,
+        "maxPoints": 25,
+        "matched": true,
+        "reason": "✓ Industry matches target criteria (Home Services)"
+      },
+      {
+        "id": "employees",
+        "criterionName": "Employee Headcount",
+        "targetRule": "10–50 Employees",
+        "pointsAwarded": 0,
+        "maxPoints": 20,
+        "matched": false,
+        "reason": "✗ Employee count (68) is outside the target 10–50 range"
+      },
+      {
+        "id": "revenue",
+        "criterionName": "Estimated Revenue",
+        "targetRule": "$1M–$10M Annual Revenue",
+        "pointsAwarded": 20,
+        "maxPoints": 20,
+        "matched": true,
+        "reason": "✓ Revenue ($8.9M) matches investment criteria ($1M–$10M)"
+      },
+      {
+        "id": "yearFounded",
+        "criterionName": "Year Founded",
+        "targetRule": "Founded after 2000",
+        "pointsAwarded": 15,
+        "maxPoints": 15,
+        "matched": true,
+        "reason": "✓ Company was founded in 2016 (after 2000 target)"
+      },
+      {
+        "id": "ceoAge",
+        "criterionName": "CEO Age",
+        "targetRule": "Age 45 or older",
+        "pointsAwarded": 0,
+        "maxPoints": 20,
+        "matched": false,
+        "reason": "✗ CEO age (41) is below the 45+ criteria threshold"
+      }
+    ]
+  },
+  {
+    "id": "lead-seed-5",
+    "companyName": "Authority Brands",
+    "website": "https://www.authoritybrands.com",
+    "linkedin": "https://www.linkedin.com/company/authority-brands/",
+    "industry": "Home Services",
+    "service": "Electrical Wiring & Smart Home",
+    "location": "Phoenix, AZ",
+    "employeeCount": 8,
+    "revenue": 850000,
+    "yearFounded": 2019,
+    "ceoName": "Jason Miller",
+    "ceoAge": 38,
+    "source": "MANUAL",
+    "createdAt": "2026-09-08T18:11:43.412Z",
+    "updatedAt": "2026-09-08T18:11:43.412Z",
+    "leadScore": 40,
+    "priority": "LOW",
+    "scoreReasons": [
+      "✓ Industry matches target criteria (Home Services)",
+      "✗ Employee count (8) is outside the target 10–50 range",
+      "✗ Revenue ($850k) does not meet the $1M–$10M target range",
+      "✓ Company was founded in 2019 (after 2000 target)",
+      "✗ CEO age (38) is below the 45+ criteria threshold"
+    ],
+    "detailedCriteria": [
+      {
+        "id": "industry",
+        "criterionName": "Target Industry",
+        "targetRule": "Home Services",
+        "pointsAwarded": 25,
+        "maxPoints": 25,
+        "matched": true,
+        "reason": "✓ Industry matches target criteria (Home Services)"
+      },
+      {
+        "id": "employees",
+        "criterionName": "Employee Headcount",
+        "targetRule": "10–50 Employees",
+        "pointsAwarded": 0,
+        "maxPoints": 20,
+        "matched": false,
+        "reason": "✗ Employee count (8) is outside the target 10–50 range"
+      },
+      {
+        "id": "revenue",
+        "criterionName": "Estimated Revenue",
+        "targetRule": "$1M–$10M Annual Revenue",
+        "pointsAwarded": 0,
+        "maxPoints": 20,
+        "matched": false,
+        "reason": "✗ Revenue ($850k) does not meet the $1M–$10M target range"
+      },
+      {
+        "id": "yearFounded",
+        "criterionName": "Year Founded",
+        "targetRule": "Founded after 2000",
+        "pointsAwarded": 15,
+        "maxPoints": 15,
+        "matched": true,
+        "reason": "✓ Company was founded in 2019 (after 2000 target)"
+      },
+      {
+        "id": "ceoAge",
+        "criterionName": "CEO Age",
+        "targetRule": "Age 45 or older",
+        "pointsAwarded": 0,
+        "maxPoints": 20,
+        "matched": false,
+        "reason": "✗ CEO age (38) is below the 45+ criteria threshold"
+      }
+    ]
+  }
+]
